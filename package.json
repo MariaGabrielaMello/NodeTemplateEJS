@@ -1,0 +1,30 @@
+{
+  "name": "nodeejs",
+  "version": "1.0.0",
+  "description": "criar trÊs rotas, utilizando node, mecanimo de templates ejs e incorporando varáveis html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaGabrielaMello/NodeTemplateEJS.git"
+  },
+  "keywords": [
+    "node",
+    "template",
+    "ejs",
+    "variáveis",
+    "html"
+  ],
+  "author": "Maria Gabriela M Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaGabrielaMello/NodeTemplateEJS/issues"
+  },
+  "homepage": "https://github.com/MariaGabrielaMello/NodeTemplateEJS#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
